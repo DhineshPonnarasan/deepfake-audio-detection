@@ -1,4 +1,3 @@
-
 # Deepfake Audio Detection System
 
 ## Key Highlights
